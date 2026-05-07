@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "7e3d701d2d30483e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a16e6ec697269666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65a2b47f26364074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "引用/概念/诺特定理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "诺特定理"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6071ee31e6b4ca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "61b3a296f9a0231b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "108d31e4ca108331",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b36cd42676e6d3de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "93f317876408d0e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8480425751bf03a",
+    "type": "split",
+    "children": [
+      {
+        "id": "24941f9ed3550c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09cc0084fd2fc791",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "92e3cadec8b6f3b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "889ecb51648799e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "31111f575143e95c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "720d7cf86ffc6105",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "65a2b47f26364074",
+  "lastOpenFiles": [
+    "Latex symbols.png",
+    "引用/概念/规范耦合.md",
+    "引用/概念/自然单位制.md",
+    "粒子物理.md",
+    "引用/概念/Yukawa 耦合.md",
+    "引用/概念/粒子质量.md",
+    "Latex symbols(1).png",
+    "Temp.md",
+    "引用/概念/诺特定理.md",
+    "引用/概念/内部对称性.md",
+    "引用/概念/质壳条件.md",
+    "引用/概念/内禀属性.md",
+    "引用/量纲分析及应用.md",
+    "引用/证明/量纲推导.md",
+    "引用/概念/精细结构常数.md",
+    "引用/概念/最可几取值.md",
+    "图片/粒子数对质量测量值的分布图.png",
+    "引用/概念/Breit-Wigner 共振公式.md",
+    "图片",
+    "新建文件夹",
+    "引用",
+    "引用/证明",
+    "引用/概念",
+    "欢迎.md"
+  ]
+}
