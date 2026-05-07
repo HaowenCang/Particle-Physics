@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a16e6ec697269666",
+        "id": "2db591c892d43731",
         "type": "tabs",
         "children": [
           {
-            "id": "65a2b47f26364074",
+            "id": "8ca177c602b547fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "引用/概念/诺特定理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "诺特定理"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -185,31 +181,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "65a2b47f26364074",
+  "active": "8ca177c602b547fb",
   "lastOpenFiles": [
-    "Latex symbols.png",
-    "引用/概念/规范耦合.md",
-    "引用/概念/自然单位制.md",
-    "粒子物理.md",
-    "引用/概念/Yukawa 耦合.md",
-    "引用/概念/粒子质量.md",
-    "Latex symbols(1).png",
     "Temp.md",
-    "引用/概念/诺特定理.md",
-    "引用/概念/内部对称性.md",
+    "Latex symbols.png",
+    "引用/概念/Mandelstam 变量.md",
+    "引用/概念/Klein-Gordon 方程.md",
     "引用/概念/质壳条件.md",
+    "引用/注释/注释1.1.md",
+    "引用/概念/自然单位制.md",
+    "引用/概念/Yukawa 耦合.md",
+    "粒子物理.md",
+    "引用/概念/近阈共振态.md",
+    "引用/概念/粒子质量.md",
     "引用/概念/内禀属性.md",
+    "引用/概念/粒子寿命.md",
+    "引用/概念/精细结构常数.md",
+    "引用/概念/规范耦合.md",
+    "引用/概念/内部对称性.md",
+    "引用/概念/Breit-Wigner 分布.md",
+    "引用/概念/内部对称性与局域对称性的关系.md",
+    "引用/概念/诺特定理.md",
+    "引用/概念/引力耦合.md",
+    "引用/概念/最可几取值.md",
+    "引用/概念/Breit-Wigner 共振公式.md",
+    "引用/概念/局域对称性.md",
+    "_TOC_.md",
+    "图片/粒子数对质量测量值的分布图.png",
     "引用/量纲分析及应用.md",
     "引用/证明/量纲推导.md",
-    "引用/概念/精细结构常数.md",
-    "引用/概念/最可几取值.md",
-    "图片/粒子数对质量测量值的分布图.png",
-    "引用/概念/Breit-Wigner 共振公式.md",
+    "引用/课后练习/课后练习1.md",
+    "引用/注释",
+    "引用/课后练习",
+    "Latex symbols(1).png",
     "图片",
     "新建文件夹",
     "引用",
     "引用/证明",
-    "引用/概念",
-    "欢迎.md"
+    "引用/概念"
   ]
 }

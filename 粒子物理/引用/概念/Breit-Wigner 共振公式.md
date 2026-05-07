@@ -66,7 +66,7 @@ $$\boxed{G(E) \approx \frac{1}{E - m + i\Gamma/2}}$$
 
 $$|G(E)|^2 = \frac{1}{(E - m)^2 + \Gamma^2/4}$$
 
-归一化后即得 Breit-Wigner 分布。
+归一化后即得 [[Breit-Wigner 分布]]。
 
 ### 2.3 与光学定理的联系
 
