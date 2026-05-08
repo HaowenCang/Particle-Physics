@@ -1,11 +1,6 @@
 {
-  "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 80
-  }
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }
