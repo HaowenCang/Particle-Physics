@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "粒子物理.md",
+                "file": "引用/概念/Yukawa 耦合.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "粒子物理"
+              "title": "Yukawa 耦合"
             }
           }
         ],
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:linker-include",
+                "query": "通俗",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -292,11 +292,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5c53961b5168551b",
+  "active": "108d31e4ca108331",
   "lastOpenFiles": [
+    "引用/概念/Mandelstam 变量.md",
+    "引用/概念/Klein-Gordon 方程.md",
+    "引用/概念/Foldy-Wouthuysen 变换.md",
+    "引用/概念/Breit-Wigner 分布.md",
+    "引用/概念/质壳条件.md",
+    "引用/概念/引力耦合.md",
+    "引用/概念/内部对称性与局域对称性的关系.md",
+    "引用/概念/粒子寿命.md",
     "引用/概念/粒子的分类.md",
-    "引用/概念/粒子的相互作用.md",
+    "引用/概念/近阈共振态.md",
+    "引用/概念/局域对称性.md",
+    "引用/概念/规范耦合.md",
     "粒子物理.md",
+    "引用/概念/粒子的相互作用.md",
     "引用/概念/n体末态相空间.md",
     "引用/概念/n 粒子反应独立 Lorentz 标量数目.pdf",
     "引用/概念/快度.md",
@@ -304,24 +315,13 @@
     "引用/概念/粒子的能量与动量.md",
     "引用/概念/粒子自旋.md",
     "Latex symbols.png",
-    "引用/概念/Mandelstam 变量.md",
-    "引用/概念/Foldy-Wouthuysen 变换.md",
     "引用/概念/粒子的磁矩.md",
     "引用/概念/Pauli-Lubanski 赝矢量.md",
     "引用/概念/粒子的电荷.md",
     "粒⼦的电荷.md",
     "引用/概念/Breit-Wigner 共振公式.md",
     "Temp.md",
-    "引用/概念/Klein-Gordon 方程.md",
-    "引用/概念/质壳条件.md",
     "引用/注释/注释1.1.md",
-    "引用/概念/自然单位制.md",
-    "引用/概念/Yukawa 耦合.md",
-    "引用/概念/近阈共振态.md",
-    "引用/概念/粒子质量.md",
-    "引用/概念/内禀属性.md",
-    "引用/概念/粒子寿命.md",
-    "引用/概念/精细结构常数.md",
     "图片/粒子数对质量测量值的分布图.png",
     "引用/注释",
     "引用/课后练习",
